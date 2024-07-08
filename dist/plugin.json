@@ -6,5 +6,6 @@
     "author": "cattn",
     "content": "App.js",
     "type": "app",
-    "icon": "home.svg"
+    "icon": "home.svg",
+    "url": "https://raw.githubusercontent.com/Cattn/sample-bunker-app/main/dist/"
 }
