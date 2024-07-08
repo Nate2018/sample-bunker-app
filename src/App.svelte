@@ -1,5 +1,6 @@
 <script>
-</script>
+    // Run rollup --config rollup.config.mjs to build the app!
 
-<!-- svelte-ignore a11y-missing-attribute -->
-<iframe class="border-none w-full h-full" src="https://ilovemath.pics"></iframe>
+    // Please contain the app to 1 .svelte file, most npm packages can be imported, but component libraies are not supported
+    // Tailwind is already included, so you don't need to import it
+</script>
